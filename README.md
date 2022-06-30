@@ -3,6 +3,10 @@
 # 기능(추후 기능 추가 예정)
 > - 게시글 CRUD
 
+# 개발 환경
+> - sts
+> - gradle
+
 # 기술 스택
 > ### 프론트 엔드 
 > - html, css, thymeleaf
